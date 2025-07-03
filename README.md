@@ -6,7 +6,7 @@ This project analyzes customer behavior, profitability, delivery performance, an
 
 ## 📁 Dataset
 
-- orders.csv – 24 columns: sales, shipping, region, customer data
+- orders.csv – 22 columns: sales, shipping, region, customer data , ....
 - returns.csv – Returned orders by ID and region
 - people.csv – Sales reps per region
 
