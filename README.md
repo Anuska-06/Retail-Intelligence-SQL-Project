@@ -26,7 +26,9 @@ This project analyzes customer behavior, profitability, delivery performance, an
 10. RFM Scorecard – top 10 loyal & valuable customers
 
 ---
+“All queries were tested in MySQL 8.0 environment.”
 
+---
 ## 🧠 Techniques Used
 
 - SQL CTEs (`WITH`)
